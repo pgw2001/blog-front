@@ -1,3 +1,5 @@
+배포 주소 : https://blog-front-lyart.vercel.app/
+
 # 블로그 프런트 (React 19) — 연동 완성본
 
 > 129~137장의 교체를 모두 마친 상태입니다. `src/data/mock.js` 가 없고, `api/` 의 함수가 전부 실제 서버를 부릅니다.
